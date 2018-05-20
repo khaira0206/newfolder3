@@ -1,0 +1,40 @@
+Top10 Words is : soldier
+
+Top10 Words is : ragged
+
+Top10 Words is : way
+
+Top10 Words is : nervously
+
+Top10 Words is : gun
+
+Top10 Words is : russian
+
+Top10 Words is : holding
+
+Top10 Words is : hill
+
+Top10 Words is : ready
+
+Top10 Words is : trees
+
+Top10 Sentences Number is : 768
+
+Top10 Sentences Number is : 19
+
+Top10 Sentences Number is : 9
+
+Top10 Sentences Number is : 76
+
+Top10 Sentences Number is : 460
+
+Top10 Sentences Number is : 99
+
+Top10 Sentences Number is : 265
+
+Top10 Sentences Number is : 34
+
+Top10 Sentences Number is : 2022
+
+Top10 Sentences Number is : 245
+
